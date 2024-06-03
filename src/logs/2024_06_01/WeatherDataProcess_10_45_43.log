@@ -1,0 +1,11 @@
+2024-06-01 10:45:43,732 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-01 10:45:43,733 - WeatherDataProcess - INFO - Process started at 2024_06_01-10_45_43
+
+
+2024-06-01 10:45:43,734 - WeatherDataProcess - INFO - 
+ Machine Host Name: DESKTOP-I84D0S5
+2024-06-01 10:45:56,719 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-01 10:46:09,382 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_01]
+2024-06-01 10:46:26,511 - WeatherDataProcess - INFO - 
+Process Run Time: 0.66 Minutes

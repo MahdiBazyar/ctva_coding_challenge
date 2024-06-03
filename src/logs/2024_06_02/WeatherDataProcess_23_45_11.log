@@ -1,0 +1,27 @@
+2024-06-02 23:45:11,217 - WeatherDataProcess - INFO - Logger initialized successfully.
+2024-06-02 23:45:11,218 - WeatherDataProcess - INFO - Process started at 2024_06_02-23_45_11
+
+
+2024-06-02 23:45:11,219 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 23:45:11,219 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 23:45:11,318 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 23:45:11,320 - WeatherDataProcess - INFO - Table records before insert data: 0
+2024-06-02 23:45:11,323 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 23:45:11,324 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 7
+2024-06-02 23:45:11,324 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 23:45:11,409 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 23:45:11,410 - WeatherDataProcess - INFO - Table records before insert data: 7
+2024-06-02 23:45:11,412 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 23:45:11,412 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 13
+2024-06-02 23:45:11,413 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 23:45:11,413 - WeatherDataProcess - INFO - Data are extracted from txt files and inserted into postgres database successfully
+2024-06-02 23:45:11,631 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 23:45:11,639 - WeatherDataProcess - INFO - 
+Query result is inserted in ctva.weather_analysis successfully.
+2024-06-02 23:45:11,640 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 23:45:11,640 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 23:45:11,641 - WeatherDataProcess - INFO - 
+Process Run Time: 0.01 Minutes

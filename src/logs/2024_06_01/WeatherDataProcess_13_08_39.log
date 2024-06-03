@@ -1,0 +1,11 @@
+2024-06-01 13:08:39,325 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-01 13:08:39,326 - WeatherDataProcess - INFO - Process started at 2024_06_01-13_08_39
+
+
+2024-06-01 13:08:39,326 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-01 13:10:30,630 - WeatherDataProcess - ERROR - Process failed at read_wx_data(). [WinError 3] The system cannot find the path specified: 'I:\\Python\\ctva_coding_challenge\\src\\wx_data'
+2024-06-01 13:10:30,632 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_01]
+2024-06-01 13:10:30,633 - WeatherDataProcess - INFO - 
+Process Run Time: 1.86 Minutes

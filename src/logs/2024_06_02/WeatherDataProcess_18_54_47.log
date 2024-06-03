@@ -1,0 +1,14 @@
+2024-06-02 18:54:47,650 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 18:54:47,652 - WeatherDataProcess - INFO - Process started at 2024_06_02-18_54_47
+
+
+2024-06-02 18:54:47,652 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 18:54:47,653 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 18:54:47,819 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 18:54:50,205 - WeatherDataProcess - INFO - Table records before insert data: 0
+2024-06-02 18:56:21,557 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 18:56:25,174 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 18:56:27,098 - WeatherDataProcess - INFO - Table records before insert data: 7
+2024-06-02 18:57:32,622 - WeatherDataProcess - INFO - Database connection closed successfully

@@ -1,0 +1,23 @@
+2024-06-02 19:27:35,617 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 19:27:35,618 - WeatherDataProcess - INFO - Process started at 2024_06_02-19_27_35
+
+
+2024-06-02 19:27:35,619 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 19:27:35,620 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 19:27:35,786 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 19:27:42,620 - WeatherDataProcess - INFO - Table records before insert data: 0
+2024-06-02 19:27:44,012 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 19:27:44,014 - WeatherDataProcess - INFO - Table records after insert data: 7
+2024-06-02 19:27:44,014 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 19:27:44,129 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 19:27:59,231 - WeatherDataProcess - INFO - Table records before insert data: 7
+2024-06-02 19:27:59,238 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 19:27:59,239 - WeatherDataProcess - INFO - Table records after insert data: 13
+2024-06-02 19:27:59,240 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 19:28:07,850 - WeatherDataProcess - INFO - Data are extracted from txt files successfully
+2024-06-02 19:28:08,915 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 19:28:12,647 - WeatherDataProcess - INFO - 
+Process Run Time: 0.58 Minutes

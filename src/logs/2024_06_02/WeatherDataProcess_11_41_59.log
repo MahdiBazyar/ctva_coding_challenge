@@ -1,0 +1,13 @@
+2024-06-02 11:41:59,307 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 11:41:59,308 - WeatherDataProcess - INFO - Process started at 2024_06_02-11_41_59
+
+
+2024-06-02 11:41:59,309 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 11:41:59,310 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 11:43:18,748 - WeatherDataProcess - ERROR - Process failed at read_wx_data(). 'str' object has no attribute 'head'
+2024-06-02 11:43:18,752 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 11:43:18,760 - WeatherDataProcess - INFO - 
+Process Run Time: 1.32 Minutes

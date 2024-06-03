@@ -1,0 +1,9 @@
+2024-06-02 17:21:28,907 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 17:21:28,908 - WeatherDataProcess - INFO - Process started at 2024_06_02-17_21_28
+
+
+2024-06-02 17:21:28,908 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 17:21:28,909 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 17:21:29,059 - WeatherDataProcess - INFO - Database connection established successfully

@@ -1,0 +1,13 @@
+2024-06-02 16:21:58,633 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 16:21:58,634 - WeatherDataProcess - INFO - Process started at 2024_06_02-16_21_58
+
+
+2024-06-02 16:21:58,639 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 16:21:59,535 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 16:22:21,774 - WeatherDataProcess - INFO - Data are extracted from txt files successfully
+2024-06-02 16:22:21,775 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 16:22:21,776 - WeatherDataProcess - INFO - 
+Process Run Time: 0.39 Minutes

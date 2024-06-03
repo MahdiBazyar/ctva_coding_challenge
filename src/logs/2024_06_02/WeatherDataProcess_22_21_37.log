@@ -1,0 +1,27 @@
+2024-06-02 22:21:37,765 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 22:21:37,766 - WeatherDataProcess - INFO - Process started at 2024_06_02-22_21_37
+
+
+2024-06-02 22:21:37,767 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 22:21:37,768 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 22:21:39,466 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 22:21:40,106 - WeatherDataProcess - INFO - Table records before insert data: 13
+2024-06-02 22:21:40,113 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 22:21:40,119 - WeatherDataProcess - INFO - Table records after insert data: 13
+2024-06-02 22:21:40,120 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 22:21:42,004 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 22:21:43,214 - WeatherDataProcess - INFO - Table records before insert data: 13
+2024-06-02 22:21:43,219 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 22:21:43,221 - WeatherDataProcess - INFO - Table records after insert data: 13
+2024-06-02 22:21:43,222 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 22:21:43,223 - WeatherDataProcess - INFO - Data are extracted from txt files successfully
+2024-06-02 22:21:50,496 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 22:21:54,277 - WeatherDataProcess - INFO - 
+Table query result is inserted in ctva.weather_analysis successfully.
+2024-06-02 22:21:55,774 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 22:22:12,261 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 22:22:12,263 - WeatherDataProcess - INFO - 
+Process Run Time: 0.58 Minutes

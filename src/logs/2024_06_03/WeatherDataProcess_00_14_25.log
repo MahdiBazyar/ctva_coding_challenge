@@ -1,0 +1,852 @@
+2024-06-03 00:14:25,867 - WeatherDataProcess - INFO - Logger initialized successfully.
+2024-06-03 00:14:25,868 - WeatherDataProcess - INFO - Process started at 2024_06_03-00_14_25
+
+
+2024-06-03 00:14:25,869 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-03 00:14:25,870 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data is: 167
+2024-06-03 00:14:27,415 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:27,420 - WeatherDataProcess - INFO - Table records before insert data: 0
+2024-06-03 00:14:27,862 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:27,865 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 10865
+2024-06-03 00:14:27,866 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:27,984 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:27,987 - WeatherDataProcess - INFO - Table records before insert data: 10865
+2024-06-03 00:14:28,230 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:28,232 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 21272
+2024-06-03 00:14:28,232 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:28,327 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:28,330 - WeatherDataProcess - INFO - Table records before insert data: 21272
+2024-06-03 00:14:28,570 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:28,574 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 31984
+2024-06-03 00:14:28,574 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:28,670 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:28,674 - WeatherDataProcess - INFO - Table records before insert data: 31984
+2024-06-03 00:14:28,891 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:28,894 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 41327
+2024-06-03 00:14:28,895 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:28,988 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:28,993 - WeatherDataProcess - INFO - Table records before insert data: 41327
+2024-06-03 00:14:29,249 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:29,253 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 52071
+2024-06-03 00:14:29,253 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:29,359 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:29,365 - WeatherDataProcess - INFO - Table records before insert data: 52071
+2024-06-03 00:14:29,679 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:29,684 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 63028
+2024-06-03 00:14:29,685 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:29,793 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:29,800 - WeatherDataProcess - INFO - Table records before insert data: 63028
+2024-06-03 00:14:30,093 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:30,098 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 73681
+2024-06-03 00:14:30,098 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:30,307 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:30,316 - WeatherDataProcess - INFO - Table records before insert data: 73681
+2024-06-03 00:14:30,541 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:30,546 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 83362
+2024-06-03 00:14:30,547 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:30,779 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:30,788 - WeatherDataProcess - INFO - Table records before insert data: 83362
+2024-06-03 00:14:31,029 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:31,035 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 94260
+2024-06-03 00:14:31,036 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:31,131 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:31,139 - WeatherDataProcess - INFO - Table records before insert data: 94260
+2024-06-03 00:14:31,382 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:31,388 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 104912
+2024-06-03 00:14:31,388 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:31,604 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:31,615 - WeatherDataProcess - INFO - Table records before insert data: 104912
+2024-06-03 00:14:31,812 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:31,823 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 113986
+2024-06-03 00:14:31,824 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:31,922 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:31,932 - WeatherDataProcess - INFO - Table records before insert data: 113986
+2024-06-03 00:14:32,176 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:32,184 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 124882
+2024-06-03 00:14:32,184 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:32,281 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:32,294 - WeatherDataProcess - INFO - Table records before insert data: 124882
+2024-06-03 00:14:32,552 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:32,563 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 135808
+2024-06-03 00:14:32,564 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:32,666 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:32,681 - WeatherDataProcess - INFO - Table records before insert data: 135808
+2024-06-03 00:14:32,951 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:32,960 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 146765
+2024-06-03 00:14:32,960 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:33,059 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:33,072 - WeatherDataProcess - INFO - Table records before insert data: 146765
+2024-06-03 00:14:33,400 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:33,410 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 157694
+2024-06-03 00:14:33,410 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:33,519 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:33,535 - WeatherDataProcess - INFO - Table records before insert data: 157694
+2024-06-03 00:14:33,806 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:33,827 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 168195
+2024-06-03 00:14:33,828 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:33,945 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:33,966 - WeatherDataProcess - INFO - Table records before insert data: 168195
+2024-06-03 00:14:34,241 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:34,254 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 178272
+2024-06-03 00:14:34,255 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:34,374 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:34,397 - WeatherDataProcess - INFO - Table records before insert data: 178272
+2024-06-03 00:14:34,575 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:34,685 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 184543
+2024-06-03 00:14:34,686 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:34,819 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:34,939 - WeatherDataProcess - INFO - Table records before insert data: 184543
+2024-06-03 00:14:35,317 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:35,436 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 195500
+2024-06-03 00:14:35,436 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:35,564 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:35,704 - WeatherDataProcess - INFO - Table records before insert data: 195500
+2024-06-03 00:14:36,009 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:36,116 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 206245
+2024-06-03 00:14:36,117 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:36,243 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:36,341 - WeatherDataProcess - INFO - Table records before insert data: 206245
+2024-06-03 00:14:36,641 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:36,745 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 217111
+2024-06-03 00:14:36,746 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:36,866 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:36,969 - WeatherDataProcess - INFO - Table records before insert data: 217111
+2024-06-03 00:14:37,270 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:37,369 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 228068
+2024-06-03 00:14:37,370 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:37,491 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:37,593 - WeatherDataProcess - INFO - Table records before insert data: 228068
+2024-06-03 00:14:37,880 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:37,992 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 239025
+2024-06-03 00:14:37,993 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:38,119 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:38,232 - WeatherDataProcess - INFO - Table records before insert data: 239025
+2024-06-03 00:14:38,611 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:38,789 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 249679
+2024-06-03 00:14:38,790 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:38,909 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:39,067 - WeatherDataProcess - INFO - Table records before insert data: 249679
+2024-06-03 00:14:39,359 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:39,638 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 260605
+2024-06-03 00:14:39,639 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:39,742 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:39,890 - WeatherDataProcess - INFO - Table records before insert data: 260605
+2024-06-03 00:14:40,180 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:40,366 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 271409
+2024-06-03 00:14:40,367 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:40,515 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:40,718 - WeatherDataProcess - INFO - Table records before insert data: 271409
+2024-06-03 00:14:41,032 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:41,336 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 281816
+2024-06-03 00:14:41,337 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:41,444 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:41,588 - WeatherDataProcess - INFO - Table records before insert data: 281816
+2024-06-03 00:14:41,872 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:42,040 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 292773
+2024-06-03 00:14:42,041 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:42,151 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:42,321 - WeatherDataProcess - INFO - Table records before insert data: 292773
+2024-06-03 00:14:42,547 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:42,711 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 300899
+2024-06-03 00:14:42,712 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:42,830 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:42,988 - WeatherDataProcess - INFO - Table records before insert data: 300899
+2024-06-03 00:14:43,283 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:43,449 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 311797
+2024-06-03 00:14:43,450 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:43,581 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:43,775 - WeatherDataProcess - INFO - Table records before insert data: 311797
+2024-06-03 00:14:44,088 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:44,265 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 322600
+2024-06-03 00:14:44,266 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:44,389 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:44,691 - WeatherDataProcess - INFO - Table records before insert data: 322600
+2024-06-03 00:14:44,991 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:45,158 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 332496
+2024-06-03 00:14:45,159 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:45,279 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:45,439 - WeatherDataProcess - INFO - Table records before insert data: 332496
+2024-06-03 00:14:45,745 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:45,953 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 343453
+2024-06-03 00:14:45,953 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:46,110 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:46,421 - WeatherDataProcess - INFO - Table records before insert data: 343453
+2024-06-03 00:14:46,703 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:46,989 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 354318
+2024-06-03 00:14:46,989 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:47,098 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:47,304 - WeatherDataProcess - INFO - Table records before insert data: 354318
+2024-06-03 00:14:47,575 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:47,730 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 365187
+2024-06-03 00:14:47,731 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:47,972 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:48,116 - WeatherDataProcess - INFO - Table records before insert data: 365187
+2024-06-03 00:14:48,386 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:48,546 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 376083
+2024-06-03 00:14:48,547 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:48,660 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:48,825 - WeatherDataProcess - INFO - Table records before insert data: 376083
+2024-06-03 00:14:49,150 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:49,338 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 386920
+2024-06-03 00:14:49,339 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:49,462 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:49,631 - WeatherDataProcess - INFO - Table records before insert data: 386920
+2024-06-03 00:14:49,929 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:50,225 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 397847
+2024-06-03 00:14:50,226 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:50,339 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:50,492 - WeatherDataProcess - INFO - Table records before insert data: 397847
+2024-06-03 00:14:50,774 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:50,939 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 408499
+2024-06-03 00:14:50,939 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:51,068 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:51,246 - WeatherDataProcess - INFO - Table records before insert data: 408499
+2024-06-03 00:14:51,694 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:51,897 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 419396
+2024-06-03 00:14:51,898 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:52,025 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:52,202 - WeatherDataProcess - INFO - Table records before insert data: 419396
+2024-06-03 00:14:52,486 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:52,666 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 429531
+2024-06-03 00:14:52,667 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:52,911 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:53,055 - WeatherDataProcess - INFO - Table records before insert data: 429531
+2024-06-03 00:14:53,204 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:53,368 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 435618
+2024-06-03 00:14:53,369 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:53,480 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:53,696 - WeatherDataProcess - INFO - Table records before insert data: 435618
+2024-06-03 00:14:53,859 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:54,063 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 441429
+2024-06-03 00:14:54,064 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:54,188 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:54,464 - WeatherDataProcess - INFO - Table records before insert data: 441429
+2024-06-03 00:14:54,769 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:54,948 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 452386
+2024-06-03 00:14:54,949 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:55,073 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:55,234 - WeatherDataProcess - INFO - Table records before insert data: 452386
+2024-06-03 00:14:55,533 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:55,690 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 463128
+2024-06-03 00:14:55,691 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:55,808 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:55,977 - WeatherDataProcess - INFO - Table records before insert data: 463128
+2024-06-03 00:14:56,241 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:56,409 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 472682
+2024-06-03 00:14:56,409 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:56,532 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:56,710 - WeatherDataProcess - INFO - Table records before insert data: 472682
+2024-06-03 00:14:57,115 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:57,304 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 483639
+2024-06-03 00:14:57,305 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:57,576 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:57,787 - WeatherDataProcess - INFO - Table records before insert data: 483639
+2024-06-03 00:14:58,050 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:58,209 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 493986
+2024-06-03 00:14:58,210 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:58,328 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:58,553 - WeatherDataProcess - INFO - Table records before insert data: 493986
+2024-06-03 00:14:58,895 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:59,062 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 504882
+2024-06-03 00:14:59,063 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:59,174 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:14:59,340 - WeatherDataProcess - INFO - Table records before insert data: 504882
+2024-06-03 00:14:59,589 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:14:59,755 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 510358
+2024-06-03 00:14:59,756 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:14:59,891 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:00,078 - WeatherDataProcess - INFO - Table records before insert data: 510358
+2024-06-03 00:15:00,390 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:00,603 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 521039
+2024-06-03 00:15:00,604 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:00,724 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:00,890 - WeatherDataProcess - INFO - Table records before insert data: 521039
+2024-06-03 00:15:01,188 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:01,358 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 531905
+2024-06-03 00:15:01,359 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:01,474 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:01,634 - WeatherDataProcess - INFO - Table records before insert data: 531905
+2024-06-03 00:15:01,929 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:02,111 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 542770
+2024-06-03 00:15:02,111 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:02,348 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:02,571 - WeatherDataProcess - INFO - Table records before insert data: 542770
+2024-06-03 00:15:02,922 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:03,097 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 553696
+2024-06-03 00:15:03,098 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:03,221 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:03,386 - WeatherDataProcess - INFO - Table records before insert data: 553696
+2024-06-03 00:15:03,670 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:03,833 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 564258
+2024-06-03 00:15:03,834 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:03,952 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:04,110 - WeatherDataProcess - INFO - Table records before insert data: 564258
+2024-06-03 00:15:04,414 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:04,576 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 575157
+2024-06-03 00:15:04,577 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:04,716 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:04,892 - WeatherDataProcess - INFO - Table records before insert data: 575157
+2024-06-03 00:15:05,306 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:05,497 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 585755
+2024-06-03 00:15:05,498 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:05,635 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:05,802 - WeatherDataProcess - INFO - Table records before insert data: 585755
+2024-06-03 00:15:06,110 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:06,291 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 596559
+2024-06-03 00:15:06,291 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:06,418 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:06,592 - WeatherDataProcess - INFO - Table records before insert data: 596559
+2024-06-03 00:15:06,896 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:07,073 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 607516
+2024-06-03 00:15:07,074 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:07,217 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:07,387 - WeatherDataProcess - INFO - Table records before insert data: 607516
+2024-06-03 00:15:07,684 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:07,895 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 618473
+2024-06-03 00:15:07,896 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:08,038 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:08,244 - WeatherDataProcess - INFO - Table records before insert data: 618473
+2024-06-03 00:15:08,569 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:08,741 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 629399
+2024-06-03 00:15:08,742 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:08,862 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:09,031 - WeatherDataProcess - INFO - Table records before insert data: 629399
+2024-06-03 00:15:09,333 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:09,497 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 640356
+2024-06-03 00:15:09,498 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:09,611 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:09,787 - WeatherDataProcess - INFO - Table records before insert data: 640356
+2024-06-03 00:15:10,025 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:10,298 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 648823
+2024-06-03 00:15:10,298 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:10,407 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:10,571 - WeatherDataProcess - INFO - Table records before insert data: 648823
+2024-06-03 00:15:10,818 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:11,134 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 657042
+2024-06-03 00:15:11,134 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:11,242 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:11,402 - WeatherDataProcess - INFO - Table records before insert data: 657042
+2024-06-03 00:15:11,663 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:11,835 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 667422
+2024-06-03 00:15:11,836 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:11,954 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:12,236 - WeatherDataProcess - INFO - Table records before insert data: 667422
+2024-06-03 00:15:12,566 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:12,720 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 678257
+2024-06-03 00:15:12,721 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:12,831 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:12,993 - WeatherDataProcess - INFO - Table records before insert data: 678257
+2024-06-03 00:15:13,213 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:13,405 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 685866
+2024-06-03 00:15:13,406 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:13,560 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:13,789 - WeatherDataProcess - INFO - Table records before insert data: 685866
+2024-06-03 00:15:14,103 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:14,266 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 696793
+2024-06-03 00:15:14,267 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:14,399 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:14,560 - WeatherDataProcess - INFO - Table records before insert data: 696793
+2024-06-03 00:15:14,844 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:15,014 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 707261
+2024-06-03 00:15:15,015 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:15,129 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:15,287 - WeatherDataProcess - INFO - Table records before insert data: 707261
+2024-06-03 00:15:15,481 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:15,775 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 714110
+2024-06-03 00:15:15,776 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:15,887 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:16,055 - WeatherDataProcess - INFO - Table records before insert data: 714110
+2024-06-03 00:15:16,368 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:16,540 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 725067
+2024-06-03 00:15:16,541 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:16,659 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:16,938 - WeatherDataProcess - INFO - Table records before insert data: 725067
+2024-06-03 00:15:17,207 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:17,489 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 736024
+2024-06-03 00:15:17,489 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:17,589 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:17,734 - WeatherDataProcess - INFO - Table records before insert data: 736024
+2024-06-03 00:15:18,010 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:18,174 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 746830
+2024-06-03 00:15:18,175 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:18,288 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:18,451 - WeatherDataProcess - INFO - Table records before insert data: 746830
+2024-06-03 00:15:18,841 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:19,066 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 757787
+2024-06-03 00:15:19,067 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:19,230 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:19,422 - WeatherDataProcess - INFO - Table records before insert data: 757787
+2024-06-03 00:15:19,744 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:19,910 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 768715
+2024-06-03 00:15:19,911 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:20,032 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:20,199 - WeatherDataProcess - INFO - Table records before insert data: 768715
+2024-06-03 00:15:20,497 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:20,658 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 779672
+2024-06-03 00:15:20,659 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:20,780 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:20,992 - WeatherDataProcess - INFO - Table records before insert data: 779672
+2024-06-03 00:15:21,300 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:21,486 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 790629
+2024-06-03 00:15:21,487 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:21,618 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:21,787 - WeatherDataProcess - INFO - Table records before insert data: 790629
+2024-06-03 00:15:22,095 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:22,389 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 801586
+2024-06-03 00:15:22,389 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:22,497 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:22,660 - WeatherDataProcess - INFO - Table records before insert data: 801586
+2024-06-03 00:15:22,943 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:23,105 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 812422
+2024-06-03 00:15:23,105 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:23,233 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:23,505 - WeatherDataProcess - INFO - Table records before insert data: 812422
+2024-06-03 00:15:23,778 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:23,931 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 823379
+2024-06-03 00:15:23,932 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:24,049 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:24,224 - WeatherDataProcess - INFO - Table records before insert data: 823379
+2024-06-03 00:15:24,605 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:24,825 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 834336
+2024-06-03 00:15:24,826 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:24,947 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:25,117 - WeatherDataProcess - INFO - Table records before insert data: 834336
+2024-06-03 00:15:25,484 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:25,650 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 845293
+2024-06-03 00:15:25,650 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:25,896 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:26,090 - WeatherDataProcess - INFO - Table records before insert data: 845293
+2024-06-03 00:15:26,357 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:26,537 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 856097
+2024-06-03 00:15:26,538 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:26,665 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:26,858 - WeatherDataProcess - INFO - Table records before insert data: 856097
+2024-06-03 00:15:27,169 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:27,349 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 866811
+2024-06-03 00:15:27,349 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:27,472 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:27,642 - WeatherDataProcess - INFO - Table records before insert data: 866811
+2024-06-03 00:15:27,948 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:28,120 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 877618
+2024-06-03 00:15:28,121 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:28,242 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:28,546 - WeatherDataProcess - INFO - Table records before insert data: 877618
+2024-06-03 00:15:28,822 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:29,108 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 888546
+2024-06-03 00:15:29,108 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:29,208 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:29,359 - WeatherDataProcess - INFO - Table records before insert data: 888546
+2024-06-03 00:15:29,671 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:29,877 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 899413
+2024-06-03 00:15:29,878 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:30,038 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:30,224 - WeatherDataProcess - INFO - Table records before insert data: 899413
+2024-06-03 00:15:30,547 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:30,731 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 910246
+2024-06-03 00:15:30,732 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:30,850 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:31,019 - WeatherDataProcess - INFO - Table records before insert data: 910246
+2024-06-03 00:15:31,331 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:31,506 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 921203
+2024-06-03 00:15:31,507 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:31,628 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:31,804 - WeatherDataProcess - INFO - Table records before insert data: 921203
+2024-06-03 00:15:32,181 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:32,383 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 932102
+2024-06-03 00:15:32,384 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:32,531 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:32,866 - WeatherDataProcess - INFO - Table records before insert data: 932102
+2024-06-03 00:15:33,156 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:33,317 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 943059
+2024-06-03 00:15:33,318 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:33,434 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:33,727 - WeatherDataProcess - INFO - Table records before insert data: 943059
+2024-06-03 00:15:33,994 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:34,154 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 954016
+2024-06-03 00:15:34,155 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:34,269 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:34,431 - WeatherDataProcess - INFO - Table records before insert data: 954016
+2024-06-03 00:15:34,714 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:34,887 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 964942
+2024-06-03 00:15:34,888 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:35,012 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:35,223 - WeatherDataProcess - INFO - Table records before insert data: 964942
+2024-06-03 00:15:35,601 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:35,828 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 975779
+2024-06-03 00:15:35,829 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:35,960 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:36,144 - WeatherDataProcess - INFO - Table records before insert data: 975779
+2024-06-03 00:15:36,453 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:36,745 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 986736
+2024-06-03 00:15:36,746 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:36,855 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:37,015 - WeatherDataProcess - INFO - Table records before insert data: 986736
+2024-06-03 00:15:37,253 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:37,420 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 995654
+2024-06-03 00:15:37,421 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:37,549 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:37,743 - WeatherDataProcess - INFO - Table records before insert data: 995654
+2024-06-03 00:15:38,016 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:38,196 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1005241
+2024-06-03 00:15:38,197 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:38,326 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:38,495 - WeatherDataProcess - INFO - Table records before insert data: 1005241
+2024-06-03 00:15:38,852 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:39,023 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1016076
+2024-06-03 00:15:39,024 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:39,146 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:39,321 - WeatherDataProcess - INFO - Table records before insert data: 1016076
+2024-06-03 00:15:39,598 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:39,765 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1026455
+2024-06-03 00:15:39,766 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:39,990 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:40,292 - WeatherDataProcess - INFO - Table records before insert data: 1026455
+2024-06-03 00:15:40,582 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:40,775 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1037412
+2024-06-03 00:15:40,775 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:40,936 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:41,127 - WeatherDataProcess - INFO - Table records before insert data: 1037412
+2024-06-03 00:15:41,458 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:41,643 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1048308
+2024-06-03 00:15:41,644 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:41,775 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:41,976 - WeatherDataProcess - INFO - Table records before insert data: 1048308
+2024-06-03 00:15:42,298 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:42,473 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1059265
+2024-06-03 00:15:42,474 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:42,605 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:42,815 - WeatherDataProcess - INFO - Table records before insert data: 1059265
+2024-06-03 00:15:43,140 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:43,453 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1070101
+2024-06-03 00:15:43,454 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:43,573 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:43,735 - WeatherDataProcess - INFO - Table records before insert data: 1070101
+2024-06-03 00:15:44,025 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:44,192 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1080906
+2024-06-03 00:15:44,193 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:44,318 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:44,480 - WeatherDataProcess - INFO - Table records before insert data: 1080906
+2024-06-03 00:15:44,764 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:44,937 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1091652
+2024-06-03 00:15:44,938 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:45,182 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:45,337 - WeatherDataProcess - INFO - Table records before insert data: 1091652
+2024-06-03 00:15:45,674 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:45,835 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1102365
+2024-06-03 00:15:45,836 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:45,969 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:46,193 - WeatherDataProcess - INFO - Table records before insert data: 1102365
+2024-06-03 00:15:46,588 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:46,787 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1113291
+2024-06-03 00:15:46,788 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:46,922 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:47,114 - WeatherDataProcess - INFO - Table records before insert data: 1113291
+2024-06-03 00:15:47,425 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:47,593 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1124187
+2024-06-03 00:15:47,594 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:47,713 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:47,888 - WeatherDataProcess - INFO - Table records before insert data: 1124187
+2024-06-03 00:15:48,164 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:48,358 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1133958
+2024-06-03 00:15:48,359 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:48,479 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:48,793 - WeatherDataProcess - INFO - Table records before insert data: 1133958
+2024-06-03 00:15:48,854 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:49,011 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1136027
+2024-06-03 00:15:49,012 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:49,211 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:49,540 - WeatherDataProcess - INFO - Table records before insert data: 1136027
+2024-06-03 00:15:49,805 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:50,002 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1146984
+2024-06-03 00:15:50,003 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:50,124 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:50,321 - WeatherDataProcess - INFO - Table records before insert data: 1146984
+2024-06-03 00:15:50,640 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:50,849 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1157941
+2024-06-03 00:15:50,850 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:50,970 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:51,279 - WeatherDataProcess - INFO - Table records before insert data: 1157941
+2024-06-03 00:15:51,580 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:51,783 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1168867
+2024-06-03 00:15:51,784 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:51,946 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:52,135 - WeatherDataProcess - INFO - Table records before insert data: 1168867
+2024-06-03 00:15:52,448 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:52,628 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1179794
+2024-06-03 00:15:52,629 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:52,748 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:52,912 - WeatherDataProcess - INFO - Table records before insert data: 1179794
+2024-06-03 00:15:53,270 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:53,443 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1190721
+2024-06-03 00:15:53,443 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:53,562 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:53,759 - WeatherDataProcess - INFO - Table records before insert data: 1190721
+2024-06-03 00:15:54,092 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:54,266 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1201617
+2024-06-03 00:15:54,267 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:54,393 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:54,576 - WeatherDataProcess - INFO - Table records before insert data: 1201617
+2024-06-03 00:15:54,822 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:55,004 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1210138
+2024-06-03 00:15:55,005 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:55,125 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:55,304 - WeatherDataProcess - INFO - Table records before insert data: 1210138
+2024-06-03 00:15:55,607 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:55,784 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1221006
+2024-06-03 00:15:55,785 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:55,902 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:56,071 - WeatherDataProcess - INFO - Table records before insert data: 1221006
+2024-06-03 00:15:56,370 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:56,676 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1231963
+2024-06-03 00:15:56,676 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:56,785 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:56,957 - WeatherDataProcess - INFO - Table records before insert data: 1231963
+2024-06-03 00:15:57,324 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:57,551 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1242646
+2024-06-03 00:15:57,552 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:57,685 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:57,855 - WeatherDataProcess - INFO - Table records before insert data: 1242646
+2024-06-03 00:15:58,160 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:58,328 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1253512
+2024-06-03 00:15:58,329 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:58,575 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:58,743 - WeatherDataProcess - INFO - Table records before insert data: 1253512
+2024-06-03 00:15:59,045 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:15:59,247 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1264439
+2024-06-03 00:15:59,247 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:15:59,374 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:15:59,596 - WeatherDataProcess - INFO - Table records before insert data: 1264439
+2024-06-03 00:15:59,930 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:00,114 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1274300
+2024-06-03 00:16:00,115 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:00,237 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:00,408 - WeatherDataProcess - INFO - Table records before insert data: 1274300
+2024-06-03 00:16:00,676 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:00,855 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1283856
+2024-06-03 00:16:00,856 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:00,979 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:01,151 - WeatherDataProcess - INFO - Table records before insert data: 1283856
+2024-06-03 00:16:01,458 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:01,674 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1294782
+2024-06-03 00:16:01,674 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:01,890 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:02,173 - WeatherDataProcess - INFO - Table records before insert data: 1294782
+2024-06-03 00:16:02,385 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:02,584 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1303271
+2024-06-03 00:16:02,584 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:02,740 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:02,943 - WeatherDataProcess - INFO - Table records before insert data: 1303271
+2024-06-03 00:16:03,261 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:03,440 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1314228
+2024-06-03 00:16:03,440 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:03,564 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:03,754 - WeatherDataProcess - INFO - Table records before insert data: 1314228
+2024-06-03 00:16:04,022 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:04,237 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1323237
+2024-06-03 00:16:04,238 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:04,358 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:04,579 - WeatherDataProcess - INFO - Table records before insert data: 1323237
+2024-06-03 00:16:04,898 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:05,078 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1334194
+2024-06-03 00:16:05,079 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:05,264 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:05,444 - WeatherDataProcess - INFO - Table records before insert data: 1334194
+2024-06-03 00:16:05,748 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:05,927 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1345030
+2024-06-03 00:16:05,928 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:06,167 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:06,325 - WeatherDataProcess - INFO - Table records before insert data: 1345030
+2024-06-03 00:16:06,651 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:06,868 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1355047
+2024-06-03 00:16:06,870 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:06,988 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:07,167 - WeatherDataProcess - INFO - Table records before insert data: 1355047
+2024-06-03 00:16:07,485 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:07,670 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1365973
+2024-06-03 00:16:07,671 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:07,802 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:08,030 - WeatherDataProcess - INFO - Table records before insert data: 1365973
+2024-06-03 00:16:08,380 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:08,588 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1376048
+2024-06-03 00:16:08,588 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:08,719 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:08,901 - WeatherDataProcess - INFO - Table records before insert data: 1376048
+2024-06-03 00:16:09,218 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:09,391 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1387005
+2024-06-03 00:16:09,392 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:09,511 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:09,689 - WeatherDataProcess - INFO - Table records before insert data: 1387005
+2024-06-03 00:16:09,956 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:10,159 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1396230
+2024-06-03 00:16:10,160 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:10,289 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:10,471 - WeatherDataProcess - INFO - Table records before insert data: 1396230
+2024-06-03 00:16:10,781 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:10,964 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1407187
+2024-06-03 00:16:10,965 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:11,088 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:11,299 - WeatherDataProcess - INFO - Table records before insert data: 1407187
+2024-06-03 00:16:11,587 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:11,762 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1417871
+2024-06-03 00:16:11,762 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:11,880 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:12,050 - WeatherDataProcess - INFO - Table records before insert data: 1417871
+2024-06-03 00:16:12,368 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:12,541 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1428679
+2024-06-03 00:16:12,542 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:12,678 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:12,878 - WeatherDataProcess - INFO - Table records before insert data: 1428679
+2024-06-03 00:16:13,259 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:13,473 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1439636
+2024-06-03 00:16:13,474 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:13,629 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:13,837 - WeatherDataProcess - INFO - Table records before insert data: 1439636
+2024-06-03 00:16:14,127 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:14,300 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1449010
+2024-06-03 00:16:14,300 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:14,423 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:14,722 - WeatherDataProcess - INFO - Table records before insert data: 1449010
+2024-06-03 00:16:14,947 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:15,223 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1457745
+2024-06-03 00:16:15,224 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:15,342 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:15,538 - WeatherDataProcess - INFO - Table records before insert data: 1457745
+2024-06-03 00:16:15,975 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:16,179 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1468702
+2024-06-03 00:16:16,180 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:16,306 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:16,555 - WeatherDataProcess - INFO - Table records before insert data: 1468702
+2024-06-03 00:16:16,897 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:17,130 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1477588
+2024-06-03 00:16:17,130 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:17,263 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:17,558 - WeatherDataProcess - INFO - Table records before insert data: 1477588
+2024-06-03 00:16:17,843 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:18,015 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1488545
+2024-06-03 00:16:18,016 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:18,138 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:18,333 - WeatherDataProcess - INFO - Table records before insert data: 1488545
+2024-06-03 00:16:18,645 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:18,847 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1499502
+2024-06-03 00:16:18,848 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:19,002 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:19,241 - WeatherDataProcess - INFO - Table records before insert data: 1499502
+2024-06-03 00:16:19,585 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:19,776 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1510274
+2024-06-03 00:16:19,776 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:19,906 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:20,091 - WeatherDataProcess - INFO - Table records before insert data: 1510274
+2024-06-03 00:16:20,444 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:20,632 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1521201
+2024-06-03 00:16:20,633 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:20,759 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:20,978 - WeatherDataProcess - INFO - Table records before insert data: 1521201
+2024-06-03 00:16:21,146 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:21,325 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1526923
+2024-06-03 00:16:21,326 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:21,452 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:21,759 - WeatherDataProcess - INFO - Table records before insert data: 1526923
+2024-06-03 00:16:22,110 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:22,315 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1537880
+2024-06-03 00:16:22,316 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:22,571 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:22,735 - WeatherDataProcess - INFO - Table records before insert data: 1537880
+2024-06-03 00:16:23,022 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:23,203 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1548806
+2024-06-03 00:16:23,203 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:23,330 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:23,507 - WeatherDataProcess - INFO - Table records before insert data: 1548806
+2024-06-03 00:16:23,797 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:23,978 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1559518
+2024-06-03 00:16:23,979 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:24,106 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:24,301 - WeatherDataProcess - INFO - Table records before insert data: 1559518
+2024-06-03 00:16:24,708 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:24,913 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1570445
+2024-06-03 00:16:24,914 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:25,044 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:25,225 - WeatherDataProcess - INFO - Table records before insert data: 1570445
+2024-06-03 00:16:25,534 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:25,717 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1581279
+2024-06-03 00:16:25,718 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:25,904 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:26,098 - WeatherDataProcess - INFO - Table records before insert data: 1581279
+2024-06-03 00:16:26,438 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:26,634 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1592175
+2024-06-03 00:16:26,635 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:26,761 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:26,947 - WeatherDataProcess - INFO - Table records before insert data: 1592175
+2024-06-03 00:16:27,223 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:27,410 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1601732
+2024-06-03 00:16:27,411 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:27,541 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:27,869 - WeatherDataProcess - INFO - Table records before insert data: 1601732
+2024-06-03 00:16:28,174 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:28,365 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1611500
+2024-06-03 00:16:28,366 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:28,611 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:28,806 - WeatherDataProcess - INFO - Table records before insert data: 1611500
+2024-06-03 00:16:29,111 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:29,288 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1622457
+2024-06-03 00:16:29,289 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:29,402 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:29,708 - WeatherDataProcess - INFO - Table records before insert data: 1622457
+2024-06-03 00:16:30,178 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:30,387 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1633414
+2024-06-03 00:16:30,387 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:30,505 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:30,702 - WeatherDataProcess - INFO - Table records before insert data: 1633414
+2024-06-03 00:16:30,994 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:31,179 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1643975
+2024-06-03 00:16:31,180 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:31,297 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:31,504 - WeatherDataProcess - INFO - Table records before insert data: 1643975
+2024-06-03 00:16:31,866 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:32,055 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1654902
+2024-06-03 00:16:32,056 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:32,173 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:32,364 - WeatherDataProcess - INFO - Table records before insert data: 1654902
+2024-06-03 00:16:32,634 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:32,832 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1664764
+2024-06-03 00:16:32,833 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:32,947 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:33,140 - WeatherDataProcess - INFO - Table records before insert data: 1664764
+2024-06-03 00:16:33,436 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:33,621 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1675233
+2024-06-03 00:16:33,621 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:33,741 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:33,928 - WeatherDataProcess - INFO - Table records before insert data: 1675233
+2024-06-03 00:16:34,236 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:34,419 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1686129
+2024-06-03 00:16:34,420 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:34,530 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:34,719 - WeatherDataProcess - INFO - Table records before insert data: 1686129
+2024-06-03 00:16:35,078 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:35,290 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1697086
+2024-06-03 00:16:35,290 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:35,458 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:35,857 - WeatherDataProcess - INFO - Table records before insert data: 1697086
+2024-06-03 00:16:36,190 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:36,419 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1708043
+2024-06-03 00:16:36,419 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:36,538 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:36,821 - WeatherDataProcess - INFO - Table records before insert data: 1708043
+2024-06-03 00:16:37,174 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:37,420 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1719000
+2024-06-03 00:16:37,420 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:37,536 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:37,712 - WeatherDataProcess - INFO - Table records before insert data: 1719000
+2024-06-03 00:16:38,020 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-03 00:16:38,207 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 1729957
+2024-06-03 00:16:38,207 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:38,208 - WeatherDataProcess - INFO - Data are extracted from txt files and inserted into postgres database successfully
+2024-06-03 00:16:38,323 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-03 00:16:39,556 - WeatherDataProcess - INFO - 
+Query result is inserted in ctva.weather_analysis successfully.
+2024-06-03 00:16:39,557 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-03 00:16:39,558 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_03]
+2024-06-03 00:16:39,559 - WeatherDataProcess - INFO - 
+Process Run Time: 2.23 Minutes

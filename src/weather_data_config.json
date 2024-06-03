@@ -1,0 +1,8 @@
+{
+    "database_name": "postgres",
+    "database_host": "localhost",
+    "postgres_username": "postgres",
+    "postgres_password": "2431",
+    "wx_data_folder_path": "I:\\Python\\ctva_coding_challenge\\wx_data",
+    "table_name": "ctva.weather_data"
+}

@@ -1,0 +1,8 @@
+2024-06-02 14:51:21,682 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 14:51:21,683 - WeatherDataProcess - INFO - Process started at 2024_06_02-14_51_21
+
+
+2024-06-02 14:51:21,683 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 14:51:21,684 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2

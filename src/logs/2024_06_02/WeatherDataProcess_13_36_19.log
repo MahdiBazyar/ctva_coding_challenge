@@ -1,0 +1,13 @@
+2024-06-02 13:36:19,946 - WeatherDataProcess - INFO - Logger initialized.
+2024-06-02 13:36:19,947 - WeatherDataProcess - INFO - Process started at 2024_06_02-13_36_19
+
+
+2024-06-02 13:36:19,948 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 13:36:19,948 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data_sample is: 2
+2024-06-02 13:36:58,990 - WeatherDataProcess - ERROR - Process failed at read_wx_data(). 'int' object is not iterable
+2024-06-02 13:36:58,992 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 13:36:58,998 - WeatherDataProcess - INFO - 
+Process Run Time: 0.65 Minutes

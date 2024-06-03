@@ -1,0 +1,30 @@
+2024-06-02 23:48:16,071 - WeatherDataProcess - INFO - Logger initialized successfully.
+2024-06-02 23:48:16,072 - WeatherDataProcess - INFO - Process started at 2024_06_02-23_48_16
+
+
+2024-06-02 23:48:16,073 - WeatherDataProcess - INFO - 
+Machine Host Name: DESKTOP-I84D0S5
+2024-06-02 23:48:16,074 - WeatherDataProcess - INFO - 
+Total number of txt files in folder I:\Python\ctva_coding_challenge\wx_data is: 2
+2024-06-02 23:48:16,199 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 23:48:16,201 - WeatherDataProcess - INFO - Table records before insert data: 0
+2024-06-02 23:48:16,443 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 23:48:16,445 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 10865
+2024-06-02 23:48:16,446 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 23:48:16,538 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 23:48:16,540 - WeatherDataProcess - INFO - Table records before insert data: 10865
+2024-06-02 23:48:16,556 - WeatherDataProcess - ERROR - Error while inserting data into postgres database: duplicate key value violates unique constraint "weather_data_pkey"
+DETAIL:  Key (date)=(19850101) already exists.
+
+2024-06-02 23:48:16,557 - WeatherDataProcess - INFO - The dataframe is inserted successfully
+2024-06-02 23:48:16,558 - WeatherDataProcess - INFO - Table records after inserting dataframe data: 10865
+2024-06-02 23:48:16,559 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 23:48:16,560 - WeatherDataProcess - INFO - Data are extracted from txt files and inserted into postgres database successfully
+2024-06-02 23:48:16,643 - WeatherDataProcess - INFO - Database connection established successfully
+2024-06-02 23:48:16,651 - WeatherDataProcess - INFO - 
+Query result is inserted in ctva.weather_analysis successfully.
+2024-06-02 23:48:16,652 - WeatherDataProcess - INFO - Database connection closed successfully
+2024-06-02 23:48:16,653 - WeatherDataProcess - INFO - 
+Process successfully executed. Please check log for details at [I:\Python\ctva_coding_challenge\src\logs\2024_06_02]
+2024-06-02 23:48:16,654 - WeatherDataProcess - INFO - 
+Process Run Time: 0.01 Minutes
